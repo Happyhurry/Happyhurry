@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Happyhurry
-- 👀 I’m interested in Python, data analysis
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python, data analysis, machine learning
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
